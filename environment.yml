@@ -1,0 +1,11 @@
+name: penguin-models
+channels:
+  - defaults
+dependencies:
+  - ipython
+  - pandas
+  - scikit-learn
+  - numpy
+  - scipy
+  - matplotlib
+
