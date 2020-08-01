@@ -32,7 +32,7 @@ To run the analysis, start an IPython shell:
 ipython
 ```
 
-then import the `analysis` module and call its `run` method:
+Then import the `analysis` module and call its `run` method:
 
 ```python
 import analysis
