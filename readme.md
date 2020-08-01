@@ -1,6 +1,6 @@
 # penguin-models
 
-This is a small Python project which explores using scikit-learn to classify penguins by species in the [Palmer penguins](https://github.com/allisonhorst/palmerpenguins) dataset using their bill features. This was a personal project that I used to learn about using support vector machines in scikit-learn. 
+This is a small Python project which explores using scikit-learn to classify penguins by species in the [Palmer penguins](https://github.com/allisonhorst/palmerpenguins) dataset given their bill features. This was a personal project that I used to learn about support vector machines in scikit-learn. 
 
 ## Setup
 
@@ -39,7 +39,7 @@ import analysis
 analysis.run()
 ```
 
-This will load the data, train the models, and create the plots in the `plots` directory. There in an `index.html` file in the `plots` directory that shows all of the plots in an annotated webpage.
+This will load the data, train the models, and create the plots in the `plots` directory. There is an `index.html` file in the `plots` directory that shows all of the plots in an annotated webpage.
 
 ## Style
 
@@ -54,4 +54,4 @@ plt.style.use(['eda'])
 
 ## Further reading
 
-I've been learning how to use scikit-learn with Aurelien Geron's book [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646). It's _really_ good. This project was produced by applying what he teaches in this book to a novel dataset.
+I've been learning how to use scikit-learn with Aurelien Geron's book [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646). It's _really_ good. This project was produced by applying what Geron teaches in his book to a novel dataset.
