@@ -54,4 +54,4 @@ plt.style.use(['eda'])
 
 ## Further reading
 
-I've been learning how to use scikit-learn with Aurelion Geron's book [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646). It's _really_ good. This project was produced by applying what he teaches in this book to a novel dataset.
+I've been learning how to use scikit-learn with Aurelien Geron's book [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646). It's _really_ good. This project was produced by applying what he teaches in this book to a novel dataset.
